@@ -2,7 +2,7 @@
   NODE_VERSION = "14"
 
 [build]
-  publish = "dist"
+  publish = "niklausiffTemplate"
   command = "npm run build"
 
 [[redirects]]
