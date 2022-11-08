@@ -2,8 +2,6 @@
 theme: ./
 favicon: './assets/icon/icon.png'
 lineNumbers: true
-download: true
-exportFilename: 'pres_niklausiff'
 ---
 
 # kolloquium
