@@ -3,7 +3,7 @@
 
 [build]
   publish = "niklausiffTemplate"
-  command = "npm run build"
+  command = "dist"
 
 [[redirects]]
   from = "/*"
