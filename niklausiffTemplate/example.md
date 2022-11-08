@@ -66,7 +66,7 @@ layout: video
 layout: img1
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -74,9 +74,9 @@ layout: img1
 layout: img2
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -84,11 +84,11 @@ layout: img2
 layout: img3
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -96,13 +96,13 @@ layout: img3
 layout: img4
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -110,17 +110,17 @@ layout: img4
 layout: img6
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -128,21 +128,21 @@ layout: img6
 layout: img8
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -150,37 +150,37 @@ layout: img8
 layout: img16
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
 
@@ -188,68 +188,68 @@ layout: img16
 layout: img32
 ---
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
-![Local Image](/assets/images/test.png)
+![](/assets/images/test.png)
 
 ### index not found
